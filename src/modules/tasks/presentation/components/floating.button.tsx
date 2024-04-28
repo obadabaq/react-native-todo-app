@@ -2,7 +2,7 @@ import { StyleSheet, Text, TouchableOpacity } from "react-native";
 
 const FloatingButton = ({ navigation }: { navigation: any }) => {
     const handleFloatingButtonPress = () => {
-        ///TODO: Navigate to AddTaskScreen
+        navigation.navigate('AddTaskScreen');
     };
 
     return (
