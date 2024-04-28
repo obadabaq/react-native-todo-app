@@ -1,5 +1,5 @@
 # Todo app
 
-### 0.0.1
+### 0.0.2
 
-* Init the project with clean architecture and redux
+* Added tasks feature
